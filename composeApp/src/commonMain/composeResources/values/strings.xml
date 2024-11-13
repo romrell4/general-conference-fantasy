@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_bar_title">General Conference Fantasy</string>
+    <string name="back_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="pick_words_instructions">Pick your General Conference Fantasy words!</string>
+    <string name="submit_button_0_words">Enter a word to get started</string>
+    <string name="submit_button_1_word">Start with this word</string>
+    <string name="submit_button_n_words">Start with these %1$d words</string>
+</resources>
