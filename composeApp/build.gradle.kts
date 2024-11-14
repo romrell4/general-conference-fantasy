@@ -30,6 +30,17 @@ kotlin {
             isStatic = true
         }
     }
+
+    js {
+        moduleName = "composeApp"
+        binaries.executable()
+        browser {
+            useCommonJs()
+            commonWebpackConfig {
+                outputFileName = "$moduleName.js"
+            }
+        }
+    }
     
     @OptIn(ExperimentalWasmDsl::class)
     wasmJs {

@@ -1,0 +1,8 @@
+version:0
+string|app_bar_title|R2VuZXJhbCBDb25mZXJlbmNlIEZhbnRhc3k=
+string|back_button|QmFjaw==
+string|next_button|TmV4dA==
+string|pick_words_instructions|UGljayB5b3VyIEdlbmVyYWwgQ29uZmVyZW5jZSBGYW50YXN5IHdvcmRzIQ==
+string|submit_button_0_words|RW50ZXIgYSB3b3JkIHRvIGdldCBzdGFydGVk
+string|submit_button_1_word|U3RhcnQgd2l0aCB0aGlzIHdvcmQ=
+string|submit_button_n_words|U3RhcnQgd2l0aCB0aGVzZSAlMSRkIHdvcmRz
